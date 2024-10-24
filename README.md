@@ -8,11 +8,11 @@ Tailored Chatbot for Hostel Booking System is a project designed to integrate a 
 
 ## Features
 <!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
-- High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+- Automated Diabetic Retinopathy Detection
+- Image Preprocessing Pipeline
+- High Detection Accuracy
+- Scalability
+- K-Fold Cross-Validation
 
 ## Requirements
 <!--List the requirements of the project as shown below-->
