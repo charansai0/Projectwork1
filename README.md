@@ -25,20 +25,26 @@ Tailored Chatbot for Hostel Booking System is a project designed to integrate a 
 * Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
 
 ## System Architecture
-<!--Embed the system architecture diagram as shown below-->
+![image](https://github.com/user-attachments/assets/39d6e761-e652-4419-928b-24b97867c885)
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
 
 
 ## Output
 
-<!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
+#### Output
+![image](https://github.com/user-attachments/assets/f6890b92-543a-46a7-930d-b49e7a81b834)
+![image](https://github.com/user-attachments/assets/53e92e3c-9414-417b-9626-72843f9d5f2a)
+![image](https://github.com/user-attachments/assets/e180bbfa-66aa-4f69-b917-42631686bb92)
+![image](https://github.com/user-attachments/assets/2505f721-600f-4e5b-a562-a7e616c49241)
 
-#### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
+
+![image](https://github.com/user-attachments/assets/b3371635-dde6-479e-8de6-6f84af5317b4)
+![image](https://github.com/user-attachments/assets/e29b4841-4c6e-4399-a64f-d0666716b671)
+![image](https://github.com/user-attachments/assets/4526cc0e-ff5a-438b-bdf3-857514fc4f68)
+![image](https://github.com/user-attachments/assets/e7f8f0f8-1690-41c2-a5dc-23cef40d365a)
+![image](https://github.com/user-attachments/assets/4a722c78-5746-4077-965f-1fd759e4fe83)
+
 
 Detection Accuracy: 96.7%
 Note: These metrics can be customized based on your actual performance evaluations.
