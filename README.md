@@ -16,13 +16,24 @@ Tailored Chatbot for Hostel Booking System is a project designed to integrate a 
 
 ## Requirements
 <!--List the requirements of the project as shown below-->
-* Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
-* Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
-* Deep Learning Frameworks: TensorFlow for model training, MediaPipe for hand gesture recognition.
-* Image Processing Libraries: OpenCV is essential for efficient image processing and real-time hand gesture recognition.
-* Version Control: Implementation of Git for collaborative development and effective code management.
-* IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
-* Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
+### Hardware Requirements:
+GPU: A GPU like NVIDIA Tesla, RTX, or any CUDA-enabled GPU is recommended for faster training of deep learning models.
+RAM: At least 16 GB RAM (preferably more for handling large datasets).
+Storage: 50–100 GB of storage for datasets, model weights, and result logs.
+CPU: A multi-core processor for general tasks and non-GPU operations.
+### Software Requirements:
+Operating System: Linux (Ubuntu or similar), Windows, or macOS.
+Programming Language: Python (preferably version 3.7+).
+### Python Libraries:
+TensorFlow/Keras: For implementing and training the Inception V3 model using transfer learning.
+OpenCV or Pillow: For image preprocessing (resizing, normalization).
+Scikit-learn: For implementing k-fold cross-validation and performance evaluation metrics.
+Matplotlib/Seaborn: For visualization of model performance, learning curves, confusion matrices, etc.
+Pandas/Numpy: For data manipulation and analysis.
+### Dataset Requirements:
+Labeled Fundus Images: A dataset containing retinal fundus images, labeled with DR severity (No DR, Mild, Moderate, Severe, Proliferative DR).
+Example Datasets: Kaggle’s APTOS 2019 Blindness Detection, IDRiD (Indian Diabetic Retinopathy Image Dataset), or Messidor-2.
+Image Size: Images need to be resized (typically 224x224 for Inception V3 input).
 
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
