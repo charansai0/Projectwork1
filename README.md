@@ -1,4 +1,4 @@
-## Diabetic Retinopathy Detection using Inception V3 as a base model for diagnosing severity 
+## DIABETIC RETINOPATHY DETECTION USING INCEPTION V3 AS A BASE MODEL FOR DIAGNOSING SEVERITY 
 Small description about the project like one below
 The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
 
