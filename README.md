@@ -4,8 +4,11 @@ The integration of a chatbot within a hostel booking system, aimed at streamlini
 
 ## About
 <!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+The project focuses on developing an automated system for detecting and classifying diabetic retinopathy (DR) using a deep learning model based on Inception V3 architecture. Diabetic retinopathy is a leading cause of vision impairment and blindness in diabetic patients, particularly those with Type 2 diabetes. Early and accurate detection of DR can help prevent severe vision loss.
 
+In this project, the Inception V3 model, a well-known deep convolutional neural network (CNN), is employed using transfer learning to identify and classify retinal fundus images into five categories based on the severity of DR:
+
+No DR,Mild DR,Moderate DR,Severe DR,Proliferative DR
 ## Features
 <!--List the features of the project as shown below-->
 - Automated Diabetic Retinopathy Detection
@@ -67,6 +70,7 @@ Image Size: Images need to be resized (typically 224x224 for Inception V3 input)
 
 
 Detection Accuracy: 92.00%
+
 Note: These metrics can be customized based on your actual performance evaluations.
 
 
@@ -77,9 +81,12 @@ Note: These metrics can be customized based on your actual performance evaluatio
 ![image](https://github.com/user-attachments/assets/4526cc0e-ff5a-438b-bdf3-857514fc4f68)
 ![image](https://github.com/user-attachments/assets/e7f8f0f8-1690-41c2-a5dc-23cef40d365a)
 ![image](https://github.com/user-attachments/assets/4a722c78-5746-4077-965f-1fd759e4fe83)
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
+The model achieved a 92% accuracy in detecting and classifying different stages of diabetic retinopathy (DR). This high level of accuracy demonstrates the model’s effectiveness in distinguishing between No DR, Mild, Moderate, Severe, and Proliferative DR.
 
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
+The model was able to correctly classify retinal fundus images into five distinct classes, showing good performance across all DR stages. The balanced classification results indicate that the model handles different severity levels well, with no significant bias toward any particular class.
+
+The use of Inception V3 with transfer learning allowed the model to leverage pre-trained weights, significantly reducing the amount of time and data needed for training. The model benefited from the powerful feature extraction capabilities of Inception V3, leading to high classification accuracy.
+
 
 ## Articles published / References
 1.	Gulshan, V., Peng, L., Coram, M., Stumpe, M. C., Wu, D., Narayanaswamy, A., ... & Webster, D. R. (2016). Development and validation of a deep learning algorithm for detection of diabetic retinopathy in retinal fundus photographs. JAMA, 316(22), 2402-2410.
