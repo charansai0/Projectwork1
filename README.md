@@ -41,17 +41,18 @@ Tailored Chatbot for Hostel Booking System is a project designed to integrate a 
 ![image](https://github.com/user-attachments/assets/2505f721-600f-4e5b-a562-a7e616c49241)
 
 
-![image](https://github.com/user-attachments/assets/b3371635-dde6-479e-8de6-6f84af5317b4)
-![image](https://github.com/user-attachments/assets/e29b4841-4c6e-4399-a64f-d0666716b671)
-![image](https://github.com/user-attachments/assets/4526cc0e-ff5a-438b-bdf3-857514fc4f68)
-![image](https://github.com/user-attachments/assets/e7f8f0f8-1690-41c2-a5dc-23cef40d365a)
-![image](https://github.com/user-attachments/assets/4a722c78-5746-4077-965f-1fd759e4fe83)
+
 Detection Accuracy: 92.00%
 Note: These metrics can be customized based on your actual performance evaluations.
 
 
 ## Results and Impact
 <!--Give the results and impact as shown below-->
+![image](https://github.com/user-attachments/assets/b3371635-dde6-479e-8de6-6f84af5317b4)
+![image](https://github.com/user-attachments/assets/e29b4841-4c6e-4399-a64f-d0666716b671)
+![image](https://github.com/user-attachments/assets/4526cc0e-ff5a-438b-bdf3-857514fc4f68)
+![image](https://github.com/user-attachments/assets/e7f8f0f8-1690-41c2-a5dc-23cef40d365a)
+![image](https://github.com/user-attachments/assets/4a722c78-5746-4077-965f-1fd759e4fe83)
 The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
 
 This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
