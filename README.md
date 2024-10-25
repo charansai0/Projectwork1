@@ -52,6 +52,7 @@ Image Size: Images need to be resized (typically 224x224 for Inception V3 input)
 
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
+## Figure1 Architecture of Diabetic retinopathy 
 ![image](https://github.com/user-attachments/assets/1f33e76c-10a6-424a-b4b6-8c44eec5784b)
 
 
@@ -61,9 +62,14 @@ Image Size: Images need to be resized (typically 224x224 for Inception V3 input)
 <!--Embed the Output picture at respective places as shown below as shown below-->
 
 
+## Figure2 eye with no DR 
 ![image](https://github.com/user-attachments/assets/f6890b92-543a-46a7-930d-b49e7a81b834)
+## Figure3 eye with Moderate DR
 ![image](https://github.com/user-attachments/assets/53e92e3c-9414-417b-9626-72843f9d5f2a)
+## Figure4 eye with Proliferative DR
 ![image](https://github.com/user-attachments/assets/e180bbfa-66aa-4f69-b917-42631686bb92)
+
+## Figure 5 sevearity stages of Dr
 ![image](https://github.com/user-attachments/assets/2505f721-600f-4e5b-a562-a7e616c49241)
 
 
